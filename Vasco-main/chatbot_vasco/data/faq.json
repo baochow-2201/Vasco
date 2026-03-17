@@ -1,0 +1,170 @@
+[
+  {
+    "question": "Làm thế nào để tạo tài khoản mới?",
+    "answer": "Bạn có thể tạo tài khoản mới bằng cách mở ứng dụng Vasco, chọn 'Đăng ký' và điền thông tin cần thiết như tên người dùng, email hoặc số điện thoại, cùng mật khẩu."
+  },
+  {
+    "question": "Vasco là gì?",
+    "answer": "Là một mạng xã hội do 1 nhóm sinh viên xây dựng, có các tính năng tương tác giao tiếp với nhau , với mục đích kết nối các sinh viên trường VAA"
+  },
+
+  {
+    "question": "Ai là người sáng lập ra Vasco ?",
+    "answer": "Là 1 nhóm sinh viên có chung ý tưởng xây dựng và phát triển để tài , team gồm có 5 người và mỗi người đều có nhiệm vụ riêng để đóng góp vào"
+  },
+
+  {
+    "question": "Tôi có thể đăng ký tài khoản Vasco bằng email hay số điện thoại?",
+    "answer": "Bạn có thể đăng ký bằng email hoặc số điện thoại, điền thông tin theo hướng dẫn trong phần 'Đăng ký' của ứng dụng."
+  },
+  {
+    "question": "Quên mật khẩu phải làm sao?",
+    "answer": "Nếu quên mật khẩu, chọn 'Quên mật khẩu', nhập email hoặc số điện thoại đã đăng ký và làm theo hướng dẫn để đặt lại mật khẩu."
+  },
+  {
+    "question": "Tôi muốn đổi mật khẩu, làm thế nào?",
+    "answer": "Vào phần Cài đặt → Tài khoản → Đổi mật khẩu và nhập mật khẩu hiện tại cùng mật khẩu mới theo hướng dẫn."
+  },
+  {
+    "question": "Muốn đổi email / số điện thoại đăng ký thì phải làm gì?",
+    "answer": "Vào phần Cài đặt → Tài khoản → Thông tin cá nhân để cập nhật email hoặc số điện thoại."
+  },
+  {
+    "question": "Tôi muốn xóa tài khoản của mình, cách thực hiện như thế nào?",
+    "answer": "Vào Cài đặt → Tài khoản → Xóa tài khoản. Thực hiện theo hướng dẫn trên màn hình để hoàn tất."
+  },
+  {
+    "question": "Làm thế nào để đổi tên hiển thị?",
+    "answer": "Vào hồ sơ cá nhân → Chỉnh sửa hồ sơ → Đổi tên hiển thị và lưu lại."
+  },
+  {
+    "question": "Tôi muốn đổi ảnh đại diện, làm sao?",
+    "answer": "Vào hồ sơ cá nhân → Chọn ảnh đại diện → Tải ảnh mới từ thiết bị và lưu lại."
+  },
+  {
+    "question": "Cách chỉnh sửa giới thiệu cá nhân là gì?",
+    "answer": "Vào hồ sơ cá nhân → Chỉnh sửa hồ sơ → Thêm hoặc chỉnh sửa phần giới thiệu và lưu thay đổi."
+  },
+  {
+    "question": "Tôi có thể ẩn trạng thái online không?",
+    "answer": "Vào Cài đặt → Quyền riêng tư → Tắt hiển thị trạng thái hoạt động."
+  },
+  {
+    "question": "Làm sao để kết bạn với người khác?",
+    "answer": "Tìm người dùng → Vào trang cá nhân → Nhấn 'Kết bạn' và chờ xác nhận."
+  },
+  {
+    "question": "Tôi muốn hủy kết bạn, làm thế nào?",
+    "answer": "Mở danh sách bạn bè → Chọn người muốn hủy → Nhấn 'Hủy kết bạn'."
+  },
+  {
+    "question": "Cách theo dõi người khác mà không cần kết bạn là gì?",
+    "answer": "Vào trang cá nhân của người đó → Nhấn 'Theo dõi'."
+  },
+  {
+    "question": "Tôi muốn bỏ theo dõi ai đó, phải làm sao?",
+    "answer": "Vào trang cá nhân người đó → Nhấn 'Bỏ theo dõi'."
+  },
+  {
+    "question": "Làm thế nào để tạo nhóm mới?",
+    "answer": "Vào mục Nhóm → Chọn 'Tạo nhóm' → Đặt tên và thêm thành viên theo hướng dẫn."
+  },
+  {
+    "question": "Tôi muốn rời khỏi một nhóm, cách thực hiện là gì?",
+    "answer": "Vào nhóm → Nhấn 'Rời nhóm' → Xác nhận để rời khỏi."
+  },
+  {
+    "question": "Gắn thẻ bạn bè trong bài viết được thực hiện như thế nào?",
+    "answer": "Khi tạo bài viết → Chọn 'Gắn thẻ bạn bè' → Chọn người muốn gắn và đăng bài."
+  },
+  {
+    "question": "Tôi muốn tạo bài viết mới hoặc đăng ảnh/video, làm thế nào?",
+    "answer": "Nhấn 'Tạo bài viết' → Nhập nội dung → Thêm ảnh hoặc video từ thiết bị → Đăng bài."
+  },
+  {
+    "question": "Cách chỉnh sửa bài viết đã đăng là gì?",
+    "answer": "Mở bài viết → Nhấn 'Chỉnh sửa' → Sửa nội dung → Lưu thay đổi."
+  },
+  {
+    "question": "Tôi muốn xóa bài viết, phải làm sao?",
+    "answer": "Mở bài viết → Nhấn 'Xóa' → Xác nhận để xóa bài."
+  },
+  {
+    "question": "Đăng story trên Vasco như thế nào?",
+    "answer": "Vào trang chính → Chọn 'Story' → Chọn ảnh hoặc video → Đăng lên story."
+  },
+  {
+    "question": "Làm sao để xem story của người khác?",
+    "answer": "Trên trang chính hoặc trang cá nhân → Nhấn vào story của người đó để xem."
+  },
+  {
+    "question": "Tôi muốn chặn một người dùng, cách thực hiện là gì?",
+    "answer": "Vào trang cá nhân người đó → Chọn 'Chặn' để ngăn họ liên hệ hoặc xem nội dung của bạn."
+  },
+  {
+    "question": "Cách bỏ chặn người dùng đã chặn là gì?",
+    "answer": "Vào danh sách bị chặn → Chọn người muốn bỏ → Nhấn 'Bỏ chặn'."
+  },
+  {
+    "question": "Tôi muốn tùy chỉnh thông báo trong Vasco, làm thế nào?",
+    "answer": "Vào Cài đặt → Thông báo → Bật hoặc tắt theo nhu cầu của bạn."
+  },
+  {
+    "question": "Cách bật chế độ tối hoặc thay đổi giao diện là gì?",
+    "answer": "Vào Cài đặt → Giao diện → Chọn chế độ sáng hoặc tối."
+  },
+  {
+    "question": "Làm sao để quản lý quyền riêng tư trên hồ sơ của mình?",
+    "answer": "Vào Cài đặt → Quyền riêng tư → Điều chỉnh ai có thể xem bài viết, thông tin cá nhân và trạng thái hoạt động."
+  },
+  {
+    "question": "Ứng dụng bị lag hoặc hoạt động chậm, phải xử lý thế nào?",
+    "answer": "Thử khởi động lại ứng dụng, kiểm tra kết nối mạng hoặc xóa bộ nhớ đệm."
+  },
+  {
+    "question": "Tôi không nhận được thông báo, lý do là gì?",
+    "answer": "Kiểm tra quyền thông báo trên thiết bị và trong ứng dụng, đồng thời đảm bảo kết nối mạng ổn định."
+  },
+  {
+    "question": "Story hoặc ảnh đăng lên bị mờ, phải làm sao?",
+    "answer": "Có thể do ảnh bị nén hoặc mạng yếu. Thử đăng lại khi mạng ổn định hoặc sử dụng ảnh chất lượng cao."
+  },
+  {
+    "question": "Nếu thiếu tính năng hoặc cần cập nhật, tôi nên làm gì?",
+    "answer": "Kiểm tra phiên bản ứng dụng trên cửa hàng, cập nhật nếu có hoặc liên hệ bộ phận hỗ trợ để biết thêm thông tin."
+  },
+
+  {
+    "question": "Tôi chỉnh sửa hồ sơ nhưng báo lỗi.",
+    "answer": "Có thể do kết nối mạng không ổn định hoặc dữ liệu nhập chưa hợp lệ. Bạn hãy kiểm tra lại mạng, nội dung đã nhập và thử lưu lại lần nữa."
+  },
+  {
+    "question": "Tại sao giới thiệu cá nhân không lưu?",
+    "answer": "Phần giới thiệu có thể bị lỗi định dạng hoặc vượt quá giới hạn ký tự. Bạn hãy kiểm tra lại nội dung và thử lưu lại."
+  },
+  {
+    "question": "Tôi gửi lời mời kết bạn nhưng người ta không nhận được.",
+    "answer": "Có thể người đó đã tắt lời mời kết bạn hoặc kết nối mạng không ổn định. Bạn hãy thử gửi lại sau hoặc kiểm tra lại mạng."
+  },
+  {
+    "question": "Tôi không tìm thấy người mình muốn kết bạn.",
+    "answer": "Người đó có thể đặt hồ sơ ở chế độ riêng tư hoặc bạn đang nhập sai tên. Hãy thử kiểm tra lại thông tin tìm kiếm."
+  },
+  {
+    "question": "Tôi đã chặn ai đó nhưng họ vẫn thấy bài của tôi?",
+    "answer": "Một số bài viết công khai vẫn có thể xem được. Nếu muốn ẩn hoàn toàn, bạn hãy đặt bài viết ở chế độ 'Chỉ bạn bè' hoặc 'Riêng tư'."
+  },
+  {
+    "question": "Tôi muốn báo cáo người dùng có hành vi xấu thì làm sao?",
+    "answer": "Bạn vào trang cá nhân của người đó, chọn 'Báo cáo', chọn lý do phù hợp và gửi báo cáo."
+  },
+  {
+    "question": "App gửi quá nhiều thông báo, tôi tắt ở đâu?",
+    "answer": "Bạn vào Cài đặt → Thông báo và tắt các loại thông báo không cần thiết."
+  },
+  {
+    "question": "Tôi muốn xem lại lời mời kết bạn đã gửi thì ở đâu?",
+    "answer": "Bạn vào mục Bạn bè → 'Lời mời đã gửi' để xem các yêu cầu đang chờ phản hồi."
+  }
+]
+
